@@ -220,6 +220,7 @@ long-context findings) is in [docs/HOW-IT-WORKS.md](docs/HOW-IT-WORKS.md).
 | You want | Go to |
 | --- | --- |
 | What changed in each release | [CHANGELOG.md](CHANGELOG.md) |
+| Which local patches have an upstream vLLM issue/PR, and its live status | [docs/UPSTREAM-TRACKING.md](docs/UPSTREAM-TRACKING.md) |
 | Setup failures, download issues, OOM, common errors | [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) |
 | Every `serve.sh` env var, profile choice, how defaults were chosen, checkpoint modes | [docs/CONFIGURATION.md](docs/CONFIGURATION.md) |
 | How each patch works internally (mmap PLE, block_size fix, top-k kernel, weight loading) | [docs/HOW-IT-WORKS.md](docs/HOW-IT-WORKS.md) |

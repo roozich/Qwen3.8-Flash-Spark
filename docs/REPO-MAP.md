@@ -71,6 +71,7 @@ docs/HISTORY.md                   the earlier updates and the preview / v0.29 ba
 docs/BENCHMARKS.md                throughput, concurrency and benchmarking methodology
 docs/CONFIGURATION.md             runtime options, checkpoint layouts, tuning reference
 docs/PARSER-FIXES.md              parser/tool-call/Responses fixes and validation scope
+docs/UPSTREAM-TRACKING.md         live status of upstream vLLM items per patch; check on every release
 docs/REPO-MAP.md                  this map
 CHANGELOG.md                      release notes, newest first
 ```
